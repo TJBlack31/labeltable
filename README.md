@@ -1,8 +1,4 @@
 # labeltable
-#A side script I worked on to assist with asset labeling. This was Intended to be integrated with an asset 
-#management system and to be used for multiple TV news shows.
-
-
 
 This is my first original program idea and it is meant to be a simple label system.
 
